@@ -4,3 +4,5 @@ bin/*
 .project
 indebtedCustomers.txt
 random3.txt
+sql/lahman2012.sql
+
